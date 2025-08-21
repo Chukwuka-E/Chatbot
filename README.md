@@ -1,6 +1,6 @@
 # 🗣️ Customer Support Chatbot
 
-Hey there! Welcome to the **Customer Support Chatbot** project. This is a simple, yet powerful, chatbot built to help users with common questions, perform web searches, and interact with an AI assistant powered by OpenRouter. It's made with love using Node.js, Express, and a few cool APIs!
+Hey there! Welcome to the ** Quest Support Chatbot** project. This is a simple, yet powerful, chatbot built to help users with common questions, perform web searches, and interact with an AI assistant powered by OpenRouter. It's made with love using Node.js, Express, and a few cool APIs!
 
 ## 🚀 Features
 
@@ -85,14 +85,17 @@ Ready to share your chatbot with the world? You can deploy it to platforms like 
     ```
 2. Deploy with just one command:
     ```bash
-    vercel
+   Render
     ```
 
-Follow the prompts, and Vercel will take care of the rest. 🥳
+Follow the prompts, and Render will take care of the rest. 🥳
 
 ## 🛠️ Contributing
 
 Got ideas for improving the bot? Feel free to fork the repo, make some changes, and submit a pull request! If you run into any issues, open an issue on the repo, and I’ll check it out.
+
+## Hosted link
+https://chatbot-cwg0.onrender.com/
 
 
 
