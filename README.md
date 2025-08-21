@@ -16,8 +16,7 @@ Hey there! Welcome to the ** Quest Support Chatbot** project. This is a simple, 
 - **APIs**:
   - [OpenRouter](https://openrouter.ai/) for AI-powered responses
   - [SerpAPI](https://serpapi.com/) for fetching web search results
-- **Environment Variables**: `.env` file to store API keys and config stuff.
-- **Middleware**: We’re using CORS, JSON parsing, and static file serving.
+.
 
 ## 🔧 Getting Started
 
@@ -99,13 +98,6 @@ https://chatbot-cwg0.onrender.com/
 
 
 
-### 🔮 What’s Next?
-
-- **Logging & Error Handling**: Consider adding more detailed logging for production with packages like `winston` or `morgan`.
-- **Personalization**: You can always improve the chatbot by adding more responses or connecting it to even more APIs for a richer experience!
-
----
-
-That's it! If you have any questions or need help, feel free to reach out. This my email "emenikechukwuka65@gmail.com" Enjoy building and chatting! 😎
+That's it! If you have any questions or need help, feel free to reach out. This my email "emenikechukwuka65@gmail.com" Enjoy chatting! 😎
 
 ---
