@@ -1,4 +1,4 @@
-# 🗣️ Customer Support Chatbot
+# 🗣️Chat Support Chatbot
 
 Hey there! Welcome to the ** Quest Support Chatbot** project. This is a simple, yet powerful, chatbot built to help users with common questions, perform web searches, and interact with an AI assistant powered by OpenRouter. It's made with love using Node.js, Express, and a few cool APIs!
 
